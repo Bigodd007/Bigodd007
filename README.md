@@ -101,7 +101,7 @@ Here are some projects I’m working on:
 
 📧 Email: enmmyfemi001@gmail.com
 💼 LinkedIn: https://linkedin.com/in/oluwafemiadegbesan
-🌐 Portfolio: https://£$%
+🌐 Portfolio: https://femi-portfolio-one.vercel.app
 
 ---
 
